@@ -2,6 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Siva%20Chandru&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Unity%20Developer%20%7C%20Gameplay%20Programmer%20%7C%20AR%2FVR&descAlignY=58&descSize=18"/>
 
+<img src="assets/profile.png" width="150" style="border-radius:50%;" alt="Siva Chandru"/>
+<!-- 👆 Replace assets/profile.png with your own headshot. Upload it into an /assets folder in this repo. -->
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Shipping+Unity%2FC%23+games+since+2023;Gameplay+Systems+%2B+Procedural+Content;AR%2FVR+Pose+Tracking+%7C+Mobile+Performance;Solo+Dev+of+Car+Dash+%E2%80%94+an+endless+runner" alt="Typing SVG" />
 
 <br/>
@@ -101,6 +104,11 @@ Solo-developed from scratch — full ownership of architecture, systems, and liv
 | **Role** | Solo developer — architecture, gameplay, tooling, debugging |
 | **Monetization** | Dual-currency economy, Google AdMob rewarded-ad revive flow |
 | **Systems** | Procedural road generation, ScriptableObject-driven store, JSON leaderboard |
+
+<p align="center">
+  <img src="assets/car-dash-gameplay.gif" width="80%" alt="Car Dash gameplay"/>
+</p>
+<!-- 👆 Replace assets/car-dash-gameplay.gif with a real gameplay clip or screenshot from Car Dash. -->
 
 **Highlights:**
 - Built a **procedural road generation system** (custom mesh + path bending, roadside decoration, skid-mark trails) driving infinite, non-repeating levels.
