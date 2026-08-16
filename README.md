@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Siva%20Chandru&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Unity%20Developer%20%7C%20C%23%20%7C%20Android%20%7C%20AR%2FVR&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Unity+Game+Developer;Gameplay+%2B+Systems+Programming;Android+%7C+AR%2FVR+Developer;Building+Fun+%26+Optimized+Games" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Unity+Game+Developer;Gameplay+%2B+Systems+Programming;Android+%7C+AR%2FVR+Developer;Building+Fun+%26+Optimized+Games;3%2B+Years+of+Unity+Development" alt="Typing SVG" />
 
 <br/>
 
@@ -37,4 +37,4 @@ name: Siva Chandru
 role: Unity Developer
 experience: 3+ Years
 focus: Gameplay Programming · Mobile Games · AR/VR
-mindset: Building polished, optimized and reusable game systems
+mindset: Building performant, reusable and production-ready game systems
